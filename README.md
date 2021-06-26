@@ -1,3 +1,8 @@
+![logo](https://user-images.githubusercontent.com/73719899/123519496-ecfc1200-d681-11eb-8ae6-b85b0afa139c.png)
+![Group 1(1)](https://user-images.githubusercontent.com/73719899/123519698-4e70b080-d683-11eb-8696-61e71c2583dc.png)
+![Group 2](https://user-images.githubusercontent.com/73719899/123519701-4fa1dd80-d683-11eb-964c-7bbd3726632e.png)
+
+---
 ![Captura de tela de 2021-06-26 13-21-39](https://user-images.githubusercontent.com/73719899/123519422-98f12d80-d681-11eb-93ee-77a186efed04.png)
 ## 📜 Índice
 - [📜 Índice](#-índice)
