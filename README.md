@@ -52,6 +52,4 @@ $ localhost:5000/
 
 <div align="center">
 
-  <small>Desenvolvido por Samira Resende Freitas - Junho/2021</small>
-
 </div>
