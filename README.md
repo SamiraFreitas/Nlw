@@ -16,14 +16,14 @@ Este repositório é referente ao projeto de desenvolvimento Next Level Week edi
 
 - [Link do site](https://letmeask-32e3d.web.app/)
 
----
+
 ## 👀 Layout da aplicação
 
 Essa aplicação possui um protótipo que pode ser acessado através do link  [Figma](https://www.figma.com/file/Z8HrkFb7BOmsNtT6GDEdgm/Letmeask-(Copy)?node-id=0%3A1)
 
----
+
 ## 👾 Tecnologias Utilizadas 
-  ---
+  
 - Html
 - CSS
 - [Node.js](https://nodejs.org/pt-br/download/)
@@ -49,9 +49,6 @@ $ yarn start
 #Acesse o site 
 $ localhost:5000/
 ```
----
-
-
 
 <div align="center">
 
