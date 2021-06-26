@@ -6,7 +6,7 @@
 - [💻 Como baixar o projeto](#-como-baixar-o-projeto)
 
 ## 📝 Sobre 
-Este repositório é referente ao projeto de desenvolvimento Next Level Week edição NLW/Together, Mission: React Native.
+Este repositório é referente ao projeto de desenvolvimento Next Level Week edição NLW/Together, Mission: ReactJS.
 
 - [Link do site](https://letmeask-32e3d.web.app/)
 
