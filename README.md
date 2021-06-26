@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="GamePlay" height="80" title="Plant Manager" src="../Nlw/letmeask/src/assets/images/Captura%20de%20tela%20de%202021-06-26%2013-21-39.png" />
+  <img height="80" title="Plant Manager" src="../Nlw/letmeask/src/assets/images/Captura%20de%20tela%20de%202021-06-26%2013-21-39.png" />
 </h1>
 
 ## 📝 Sobre 
