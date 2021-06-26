@@ -1,15 +1,15 @@
-<h1 align="center">
-  <img  height="80" title="Plant Manager" src=".github/../letmeask/.github/logo.png">
-</h1>
 <p align="center">
-  <img alt="License" src=".github/../letmeask/.github/Group%201(1).png">
-
- <img src=".github/../letmeask/.github/Group%202.png" alt="NLW 06" />
+  <img alt="Letmeask" src=".github/../letmeask/.github/logo.png" width="160px">
 </p>
 
-<h1 align="center">
-  <img  height="80" title="Plant Manager" src=".github/../letmeask/.github/tela.png"  />
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
+  
+  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
+
+  <img  src=".github/../letmeask/.github/cover.svg" alt="License">   
+</p>
+
 
 ## 📝 Sobre 
 Este repositório é referente ao projeto de desenvolvimento Next Level Week edição NLW/Together, Mission: ReactJS.
@@ -51,11 +51,7 @@ $ localhost:5000/
 ```
 ---
 
-## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-<br />
 
 <div align="center">
 
