@@ -10,6 +10,7 @@
 <h1 align="center">
   <img  height="80" title="Plant Manager" src=".github/../letmeask/.github/tela.png"  />
 </h1>
+![Captura de tela de 2021-06-26 13-21-39](https://user-images.githubusercontent.com/73719899/123519422-98f12d80-d681-11eb-93ee-77a186efed04.png)
 
 ## 📝 Sobre 
 Este repositório é referente ao projeto de desenvolvimento Next Level Week edição NLW/Together, Mission: ReactJS.
