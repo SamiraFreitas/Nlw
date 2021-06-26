@@ -17,7 +17,7 @@ Essa aplicação possui um protótipo que pode ser acessado através do link  [F
 
 ---
 ## 👾 Tecnologias Utilizadas 
-  ---
+
 - Html
 - CSS
 - [Node.js](https://nodejs.org/pt-br/download/)
