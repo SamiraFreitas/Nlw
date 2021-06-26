@@ -1,9 +1,11 @@
+![Captura de tela de 2021-06-26 13-21-39](https://user-images.githubusercontent.com/73719899/123519422-98f12d80-d681-11eb-93ee-77a186efed04.png)
 ## 📜 Índice
 - [📜 Índice](#-índice)
 - [📝 Sobre](#-sobre)
 - [👀 Layout da aplicação](#-layout-da-aplicação)
 - [## 👾 Tecnologias Utilizadas](#--tecnologias-utilizadas)
 - [💻 Como baixar o projeto](#-como-baixar-o-projeto)
+- 🕶 Licença 
 
 ## 📝 Sobre 
 Este repositório é referente ao projeto de desenvolvimento Next Level Week edição NLW/Together, Mission: ReactJS.
@@ -43,5 +45,7 @@ $ yarn start
 #Acesse o site 
 $ localhost:5000/
 ```
+## Licença
+Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Desenvolvido 💜  por [Samira]
+                        Desenvolvido 💜  por [Samira]
