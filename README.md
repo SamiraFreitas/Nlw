@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img alt="GamePlay" height="80" title="Plant Manager" src="../Nlw/letmeask/src/assets/images/Component%201.png" />
+  <img  height="80" title="Plant Manager" src="../Nlw/letmeask/src/assets/images/Component%201.png" />
 </h1>
 <p align="center">
-  <img alt="License" src="../Nlw/letmeask/src/assets/Group%201(1).png">
+  <img src="../Nlw/letmeask/src/assets/Group%201(1).png">
 
  <img src="../Nlw/letmeask/src/assets/Group%202.png" alt="NLW 06" />
 </p>
