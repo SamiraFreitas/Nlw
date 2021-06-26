@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img  height="80" title="Plant Manager" src="../Nlw/letmeask/src/assets/images/Component%201.png" />
+  <img  height="80" title="Plant Manager" src=".github/../letmeask/.github/logo.png">
 </h1>
 <p align="center">
-  <img src="../Nlw/letmeask/src/assets/Group%201(1).png">
+  <img alt="License" src=".github/../letmeask/.github/Group%201(1).png">
 
- <img src="../Nlw/letmeask/src/assets/Group%202.png" alt="NLW 06" />
+ <img src=".github/../letmeask/.github/Group%202.png" alt="NLW 06" />
 </p>
 
 <h1 align="center">
-  <img height="80" title="Plant Manager" src="../Nlw/letmeask/src/assets/images/Captura%20de%20tela%20de%202021-06-26%2013-21-39.png" />
+  <img  height="80" title="Plant Manager" src=".github/../letmeask/.github/tela.png"  />
 </h1>
 
 ## 📝 Sobre 
@@ -58,6 +58,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <br />
 
 <div align="center">
+
   <small>Desenvolvido por Samira Resende Freitas - Junho/2021</small>
 
 </div>
