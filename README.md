@@ -1,9 +1,15 @@
-## 📜 Índice
-- [📜 Índice](#-índice)
-- [📝 Sobre](#-sobre)
-- [👀 Layout da aplicação](#-layout-da-aplicação)
-- [## 👾 Tecnologias Utilizadas](#--tecnologias-utilizadas)
-- [💻 Como baixar o projeto](#-como-baixar-o-projeto)
+<h1 align="center">
+  <img alt="GamePlay" height="80" title="Plant Manager" src="../Nlw/letmeask/src/assets/images/Component%201.png" />
+</h1>
+<p align="center">
+  <img alt="License" src="../Nlw/letmeask/src/assets/Group%201(1).png">
+
+ <img src="../Nlw/letmeask/src/assets/Group%202.png" alt="NLW 06" />
+</p>
+
+<h1 align="center">
+  <img alt="GamePlay" height="80" title="Plant Manager" src="../Nlw/letmeask/src/assets/images/Captura%20de%20tela%20de%202021-06-26%2013-21-39.png" />
+</h1>
 
 ## 📝 Sobre 
 Este repositório é referente ao projeto de desenvolvimento Next Level Week edição NLW/Together, Mission: ReactJS.
@@ -44,4 +50,14 @@ $ yarn start
 $ localhost:5000/
 ```
 ---
-Desenvolvido 💜  por [Samira]
+
+## 📄 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+<br />
+
+<div align="center">
+  <small>Desenvolvido por Samira Resende Freitas - Junho/2021</small>
+
+</div>
