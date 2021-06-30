@@ -40,7 +40,8 @@ Essa aplicação possui um protótipo que pode ser acessado através do link  [F
 #Clonando o repositorio 
 $ git clone https://github.com/SamiraFreitas/Nlw
 #Entrar no diretorio 
-$ cd Nlw
+$ cd Nlw_master
+#Entrar na pasta
 $ cd letmeask
 # Instalar as dependências
 $ npm install || yarn install
